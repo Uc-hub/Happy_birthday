@@ -1,0 +1,34 @@
+@font-face{
+	font-family:'Glamor-regular';
+	src: url('fonts/Glamor-Regular.ttf') format('truetype'),  url('fonts/Glamor-Regular.otf') format('opentype');
+}
+@font-face{
+	font-family:'Glamor-bold';
+	src: url('fonts/Glamor-Bold.ttf') format('truetype');
+}
+@font-face{
+	font-family:'Glamor-medium';
+	src: url('fonts/Glamor-Medium.ttf') format('truetype');
+}
+@font-face{
+	font-family:'Glamor-light';
+	src: url('fonts/Glamor-Light.ttf') format('truetype');
+}
+@font-face{
+	font-family:'Glamor-extended';
+	src: url('fonts/Glamor-Extended.ttf') format('truetype');
+}
+@font-face{
+	font-family:'Glamor-condensed';
+	src: url('fonts/Glamor-Condensed.ttf') format('truetype');
+}
+
+@font-face{
+	font-family:'Lindy';
+	src: url('fonts/LindysDiner.ttf') format('truetype');
+}
+
+@font-face{
+	font-family:'Wallington';
+	src: url('fonts/Wallington-Regular.ttf') format('truetype');
+}
